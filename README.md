@@ -1,7 +1,8 @@
 # AtliQ-Hospitality
 As part of the codebasics september month resume challenge, I have worked on this analysis project.
 
-Link to Interactive Dashboard : https://app.powerbi.com/view?r=eyJrIjoiOTNjN2QyOGItZTY5MC00ZmU0LTgyZjEtNWIxZWE4MWJkMjkwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Link to Interactive Dashboard :  _[Hospitality Project](https://app.powerbi.com/view?r=eyJrIjoiOTNjN2QyOGItZTY5MC00ZmU0LTgyZjEtNWIxZWE4MWJkMjkwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_ 
+
 
 **Problem statement**
 
